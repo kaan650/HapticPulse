@@ -1,2 +1,2 @@
-# hapticpulse
+# HapticPulse
  Dynamic haptic feedback library
